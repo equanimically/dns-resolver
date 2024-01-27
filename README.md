@@ -1,2 +1,1 @@
-# COMP3331
-COMP3331 23T2
+DNS client and resolver programs written in Python.
